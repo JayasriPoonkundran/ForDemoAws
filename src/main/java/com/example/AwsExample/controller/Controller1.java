@@ -11,6 +11,6 @@ public class Controller1 {
 
 	@RequestMapping("/home)
 	public String home(){
-		return "pages/home"
+		return "pages/home";
 	 } 
 }
